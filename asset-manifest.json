@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/parallax-scrolling-frontend/static/css/main.d558e654.css",
+    "main.js": "/parallax-scrolling-frontend/static/js/main.49153cb0.js",
+    "static/media/mountains_front.png": "/parallax-scrolling-frontend/static/media/mountains_front.25a10186b8e276488f43.png",
+    "static/media/mountains_behind.png": "/parallax-scrolling-frontend/static/media/mountains_behind.38e14b5c40238f9f4c60.png",
+    "static/media/stars.png": "/parallax-scrolling-frontend/static/media/stars.fb95e3d1302794752cfa.png",
+    "static/media/moon.png": "/parallax-scrolling-frontend/static/media/moon.ab81903c55e2dd21511b.png",
+    "index.html": "/parallax-scrolling-frontend/index.html",
+    "main.d558e654.css.map": "/parallax-scrolling-frontend/static/css/main.d558e654.css.map",
+    "main.49153cb0.js.map": "/parallax-scrolling-frontend/static/js/main.49153cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d558e654.css",
+    "static/js/main.49153cb0.js"
+  ]
+}
